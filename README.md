@@ -1,6 +1,6 @@
 # GestorPyme
 
-Prototipo local para administrar negocio, proveedores, productos, inventario y reportes. Se estructura a partir de `Plan_desarrollo_GestorPyme_SQLite.md` con React + Vite, Express y SQLite. La base de datos se crea al iniciar el servidor en `data/gestorpyme.db`.
+Prototipo local para administrar negocio, proveedores, productos, inventario y reportes. Con React + Vite, Express y SQLite. La base de datos se crea al iniciar el servidor en `data/gestorpyme.db`.
 
 ## Requisitos
 
